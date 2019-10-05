@@ -8,3 +8,6 @@ Implemented B+ Tree and Linear Hashing in python
 <br> 3. COUNT x (Output: No of occurances of x in the B+ tree)
 <br> 4. RANGE x y (Output: No of elements in between x and y in B+ tree)
 
+
+## Linear Hashing:
+<br> Implemented insertion and handled duplicate elimination.
