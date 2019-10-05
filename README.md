@@ -7,7 +7,10 @@ Implemented B+ Tree and Linear Hashing in python
 <br> 2. FIND x (Output: YES if x exists in the B+ tree, else NO)
 <br> 3. COUNT x (Output: No of occurances of x in the B+ tree)
 <br> 4. RANGE x y (Output: No of elements in between x and y in B+ tree)
-
+### To Run
+<br> python3 B_plus.py <input_filename>
 
 ## Linear Hashing:
-<br> Implemented insertion and handled duplicate elimination.
+<br> Implemented linear hashing and handled duplicate elimination.
+### To Run
+<br> python3 linearhashing.py <input_filename>
