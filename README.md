@@ -1,5 +1,3 @@
-Implemented B+ Tree and Linear Hashing in python
-
 ## B+ Tree:
 <br> Implemented to handle following queries:
 <br> 1. INSERT x (Inserts x into the B+ tree)
